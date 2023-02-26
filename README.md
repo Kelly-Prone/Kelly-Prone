@@ -1,4 +1,4 @@
-## Welcome! 👋
+## Welcome!
 
 ## I'm Kelly Prone, let me present a little about myself! :smile:
 
@@ -11,12 +11,14 @@ In technology, we are always eternal learners! :star2:
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Kelly-Prone)](https://github.com/Kelly-Prone)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelly-prone/)](https://www.linkedin.com/in/kelly-prone/)
+[![Linkedin Badge](https://img.shields.io/badge/-KellyProne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelly-prone/)](https://www.linkedin.com/in/kelly-prone/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelly.prone2@gmail.com)](mailto:kelly.prone2@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-kellyprone-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kelly_prone/)](https://instagram.com/kelly_prone)
 
 
 
-![Kelly-Prone GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Prone&hide=contribs,prs)
+
+![Kelly-Prone GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Prone&theme=dracula&show_icons=true)
 
 -----------------------------
 ## :computer: Technologies and Tools: 
