@@ -2,7 +2,9 @@
 
 ## I'm Kelly Prone, let me present a little about myself! :smile:
 
-I am a ```software engineering student```. I already have knowledge with web development, and you can see some of my projects here on Github. Passionate about Front-end, I'm always looking for new challenges and opportunities.
+I graduated in ```software engineering```. I have knowledge of web development, but I'm currently focused on C# and .Net 
+
+You can see some of my projects here on Github. I am always looking for new challenges and work opportunities.
 
 In technology, we are always eternal learners! :star2:
 
