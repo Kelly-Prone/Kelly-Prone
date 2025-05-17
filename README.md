@@ -1,41 +1,61 @@
-## Welcome!
+<h1 align="center">Hi there 👋, I'm Kelly Prone</h1>
 
-## I'm Kelly Prone, let me present a little about myself! :smile:
+<p align="center">
+  🎓 Software Engineer | 💻 .NET Developer | 🌐 Tech Enthusiast
+</p>
 
-I graduated in ```software engineering```. I have knowledge of web development, but I'm currently focused on C# and .Net 
+---
 
-You can see some of my projects here on Github. I am always looking for new challenges and work opportunities.
+### 👩‍💻 About Me
 
-In technology, we are always eternal learners! :star2:
+I have a degree in software engineering and I am currently studying a postgraduate degree in the area of ​​"Artificial Intelligence and Machine Learning".
 
-------------------------------
-## About Me: :point_down:
+- Currently focusing on **C# and .NET** development
+- Expanding my knowledge in **backend development** and clean architecture
+- Open to new opportunities and collaborations in software projects
+- Eager to learn and grow with the tech community
 
+> *"In technology, we are always eternal learners!"* 🌟
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Kelly-Prone)](https://github.com/Kelly-Prone)
-[![Linkedin Badge](https://img.shields.io/badge/-KellyProne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelly-prone/)](https://www.linkedin.com/in/kelly-prone/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelly.prone2@gmail.com)](mailto:kelly.prone2@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-kellyprone-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kelly_prone/)](https://instagram.com/kelly_prone)
+---
 
+### 🛠️ Tech Stack
 
+#### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-![Kelly-Prone GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Prone&theme=dracula&show_icons=true)
+---
 
------------------------------
-## :computer: Technologies and Tools: 
+### 📊 GitHub Stats
+<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kelly-Prone&show_icons=true&theme=dracula" alt="Kelly's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Prone&layout=compact&theme=dracula" alt="Top Languages"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Prone&layout=compact)](https://github.com/Kelly-Prone/github-readme-stats)
+---
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🌐 Connect With Me
 
-------------------------------
+[![LinkedIn](https://img.shields.io/badge/KellyProne-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-prone/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kelly-Prone)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.prone2@gmail.com)
+[![Instagram](https://img.shields.io/badge/@kellyprone-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kelly_prone)
 
-### :star2: Thanks for visiting! :star2:
+---
 
-### Enjoy it!! :earth_americas:
+### ⭐ Thanks for visiting my profile!
 
+> _Feel free to explore my repositories and get in touch if you want to collaborate on something cool!_
 
